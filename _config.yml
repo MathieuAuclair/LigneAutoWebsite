@@ -1,0 +1,35 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://ligneauto.co
+title: LigneAuto.co
+email: mathieuauclair@aol.com
+author: Mathieu Auclair
+description: > # "Write an awesome description for your new site here. 
+  You can edit this line in _config.yml. It will appear in your document 
+  head meta (for Google search results) and in your feed.xml site 
+  description.
+copyright: 'Copyright &copy; 2015 Mathieu Auclair. All Rights Reserved.'
+credits: 
+
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: 
+  - title: github
+    url:
+  - title: linkedin
+    url: 

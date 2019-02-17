@@ -1,0 +1,8 @@
+---
+layout: default
+img: phones.png
+category: Services
+title: Rapide et efficace!
+description: |
+---
+   Un excellent passe partout pour toutes occasions
